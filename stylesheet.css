@@ -834,6 +834,9 @@ RESPONSIVENESS START
     body {
         background-color: yellow;
     }
+    .myphoto{
+        display:none;
+    }
 }
 /* For Tablet User */
 @media only screen and (max-width:786px) {
